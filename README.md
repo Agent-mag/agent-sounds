@@ -1,5 +1,7 @@
 # Agent Sounds
 
+> **Canonical source:** [Agent-mag/tools/agent-sounds](https://github.com/Agent-mag/tools/tree/main/agent-sounds) — this repo mirrors the tools monorepo.
+
 **Sound effects for Claude Code sessions.** Hear audio cues when tasks start, complete, or need your attention.
 
 4 original sound packs. Zero copyrighted audio. Works on macOS, Linux, and Windows.
